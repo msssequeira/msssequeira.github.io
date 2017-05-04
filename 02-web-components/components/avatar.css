@@ -1,0 +1,8 @@
+.avatar {
+	width: 220px;
+	height: 220px;
+  	border-radius: 50%;
+	background-image: url('http://www.desktopimages.org/pictures/2015/0628/1/th1_628451.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+}

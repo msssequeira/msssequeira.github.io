@@ -1,0 +1,22 @@
+.btn {
+	display: inline-block;
+	height: 40px;
+	line-height: 40px;
+	padding-left: 20px;
+	padding-right: 20px;
+	color: white;
+	border-radius: 4px;
+	text-decoration: none;
+}
+
+.btn-red {
+	background-color: #D02805;
+}
+
+.btn-red:hover {
+	background-color: #B32204;
+}
+
+.btn-red:active {
+	background-color: #EF2908;
+}
