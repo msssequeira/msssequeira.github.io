@@ -1,0 +1,12 @@
+@import url('components/banner.css');
+
+body {
+	margin-bottom: 200px;
+}
+
+.get-news {
+	margin-top: 100px;
+	background-color: #f4f4f4;
+	padding-top: 40px;
+	padding-bottom: 40px;
+}
