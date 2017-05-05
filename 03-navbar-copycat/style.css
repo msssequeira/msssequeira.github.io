@@ -1,0 +1,7 @@
+@import url('components/banner.css');
+@import url('components/avatar.css');
+@import url('components/navbar.css');
+
+body {
+	background-color: #E6E6E6;
+}

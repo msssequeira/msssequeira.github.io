@@ -1,0 +1,18 @@
+.navbar {
+	background-color: white ;
+	padding: 15px 30px;
+}
+
+.kill-margin {
+	margin: 0px;
+}
+
+.navbar-container {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+}
+
+.navbar .dropdown-toggle {
+    font-size: 20px;
+}
