@@ -1,0 +1,17 @@
+.message {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.message-name {
+	flex: 0 0 20%;
+}
+
+.message-body {
+	flex-grow: 1;
+}
+
+.message .avatar {
+	margin-right: 20px;
+}

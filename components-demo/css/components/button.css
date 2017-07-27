@@ -1,0 +1,25 @@
+.btn {
+	display: inline-block;
+	padding: 10px 15px;
+	text-decoration: none;
+}
+
+.btn-red {
+	background-color: #e60000;
+	color: white;
+	border-radius: 4px;
+}
+
+.btn-red:hover {
+	background-color: #b30000;
+}
+
+.btn-medium {
+	border: 1px solid #cccccc;
+	color: #666;
+	border-radius: 20px;
+}
+
+.btn-medium:hover {
+	background-color: #ececec;
+}

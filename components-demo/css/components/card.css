@@ -1,0 +1,26 @@
+.card {
+	position: relative;
+	background-image: url(https://media.giphy.com/media/w4bT21p0iQjTy/giphy.gif);
+	background-size: cover;
+	color: white;
+	width: 500px;
+	height: 300px;
+}
+
+.card .popular {
+	position: absolute;
+	top: 10px;
+	left: 10px;
+}
+
+.card .avatar {
+	position: absolute;
+	right: 10px;
+	top: 10px;
+}
+
+.card-title {
+	position: absolute;
+	bottom: 10px;
+	left: 10px;
+}

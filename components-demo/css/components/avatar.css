@@ -1,0 +1,15 @@
+.avatar {
+	border-radius: 50%;
+	background-size: cover;
+	display: inline-block;
+}
+
+.avatar-small {
+	height: 50px;
+	width: 50px;
+}
+
+.avatar-large {
+	height: 200px;
+	width: 200px;
+}
